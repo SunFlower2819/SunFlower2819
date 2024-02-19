@@ -1,0 +1,4 @@
+C:\Users\asus\OneDrive\바탕 화면\GameDevPracticePackage-master\GameDevPracticePackage-master\Chapter2\Lecture2\x64\Debug\Lecture2.vcxproj.CopyComplete
+C:\Users\asus\OneDrive\바탕 화면\GameDevPracticePackage-master\GameDevPracticePackage-master\Chapter2\Lecture2\x64\Debug\Lecture2.exe
+C:\Users\asus\OneDrive\바탕 화면\GameDevPracticePackage-master\GameDevPracticePackage-master\Chapter2\Lecture2\x64\Debug\glew32d.dll
+C:\Users\asus\OneDrive\바탕 화면\GameDevPracticePackage-master\GameDevPracticePackage-master\Chapter2\Lecture2\x64\Debug\glfw3.dll
